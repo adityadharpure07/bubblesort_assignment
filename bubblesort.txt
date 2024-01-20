@@ -1,0 +1,14 @@
+BUBBLE SORTING 
+
+Q1.
+ANSWER:true sentence:
+       1.It is stable sort
+       3.it involves swapping of adjacent elements.
+       4.After each iteration ,the greatest element is placed at the end of the array.
+
+Q2.
+Answer: 3.[1,2,5,4,3,6] is correct.
+
+Q3.
+Answer: 1.when array is sorted in incerasing order. is correct.
+
